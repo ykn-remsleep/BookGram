@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+body {
+    color: black;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    background-color: #CF2E92;
+}
+
+h1 {
+    margin: 10px 0;
+    padding: 0;
+    color: black;
+    font-size: 2.0em;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    font-weight: bold;
+    font-size: 1.2em;
+        
+}
+
+h3 {
+    color: #eee;
+    font-weight: bold;
+    padding: 3px 0 1px 8px;
+    margin: 0;
+    font-size: 1.1em;
+        background-color: #930;
+}
+ 
+a{
+     font-size: 20px;
+}
+
+table{
+    margin: 0 auto;
+}
+
+th{
+    background-color: #F26939;
+}
+
+.article {
+    color: black;
+    width: 60%;
+    margin: 15px auto;
+    padding: 12px;
+    background-color: #FFDD83;
+    border-color: #F26939;
+    border: 10px solid #F26939;
+}
+
+.register{
+    color: black;
+    width: 60%;
+    margin: 15px auto;
+    padding: 12px;
+    background-color: #FFDD83;
+    text-align: center;
+}
+
+.submit{
+    color: black;
+    width: 80%;
+    margin: 15px auto;
+    padding: 12px;
+    background-color: #FFDD83;
+    text-align: center;
+}
+
+.comment {
+    margin: 10px 20px;
+    padding: 0 0 12px 0;
+    background-color: rgb(197, 247, 212);
+}
+
+.comment_link {
+    text-align: right;
+}
+
+.article_link {
+    width: 60%;
+    margin: auto;
+    padding: 12px;
+    text-align: right;
+    
+}
+
+.search{
+    margin: 12px auto;
+    padding: 12px;
+    line-height: 1.4em;
+    text-align: center;
+    background-color: #FFDD83;
+    width: 50%;
+}
+
+.login {
+    width: 60%;
+    margin: auto;
+    text-align: right;
+}
+
+.return_top{
+    text-align: center;
+    margin: 0 auto;
+}
